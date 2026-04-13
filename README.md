@@ -2,10 +2,9 @@
 
 > *"I'm building a universe to help people see their own cognitive boundaries."*
 
-我是一名大二学生，正在用 AI 辅助探索全栈开发的边界。
-目前，我把所有的热情都倾注在了 **InfoCocoon-Galaxy** 上——一个用星际探索可视化信息茧房、并试图打破它的交互式项目。
-
----
+我是一名大二学生，正在用 AI 辅助做一个以“信息茧房可视化”为核心概念的 3D 沉浸式知识宇宙项目。它把知识体系映射成可探索的宇宙结构：星座代表知识领域，星系代表细分方向，行星代表主题，卫星代表具体知识点。
+目前，我把所有的热情都倾注在了 **InfoCocoon-Galaxy** 上一个用星际探索可视化信息茧房、并试图打破它的交互式项目。
+当前已经完成 MVP 主链路，并已具备从星系图探索、全息预览、星系内部飞行，到进入行星观察界面的完整体验。
 
 ### 🚀 当前主推项目：InfoCocoon-Galaxy
 
@@ -32,8 +31,11 @@
 
 ### 🛠️ 技术栈与工具箱
 
-```text
-前端：React, Three.js, p5.js
-后端（学习中）：Java, Spring Boot, PostgreSQL
-AI 协作：GitHub Copilot, DeepSeek, Cursor
-设计理念：Build in Public · 产品驱动学习 · 单人全栈
+React 19 + TypeScript 6.0
+- Vite 8
+- React Three Fiber + Drei + Three.js
+- Zustand vanilla store
+- Dexie / IndexedDB
+- Vitest
+- ESLint + Prettier + Husky + lint-staged 16
+- GitHub Actions
