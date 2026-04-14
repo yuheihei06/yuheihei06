@@ -41,14 +41,6 @@ React 19 + TypeScript 6.0
 我会在社交媒体上**持续更新开发进度**，记录从 0 到 1 的完整过程。  
 如果你对信息茧房、独立开发、AI 协作感兴趣，欢迎来见证这座宇宙的诞生。
 
-<p align="left">
-  <a href=" ">
-    < img src="https://img.shields.io/badge/X-74751858155style=for-the-badge&logo=x&logoColor=white" alt="X" />
-  </a >
-  <a href="https://www.xiaohongshu.com/user/profile/你的ID">
-    < img src="https://img.shields.io/badge/小红书-@你的用户名-FF2442?style=for-the-badge&logo=xiaohongshu&logoColor=white" alt="小红书" />
-  </a >
-  <a href="https://space.bilibili.com/你的ID">
-    < img src="https://img.shields.io/badge/B站-@你的用户名-00A1D6?style=for-the-badge&logo=bilibili&logoColor=white" alt="Bilibili" />
-  </a >
-</p >
+抖音：简朴 74751858155
+B站：简朴_a UID:3546707574917251
+小红书：简朴 27753420326
