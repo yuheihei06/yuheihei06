@@ -43,7 +43,7 @@ React 19 + TypeScript 6.0
 
 <p align="left">
   <a href=" ">
-    < img src="https://img.shields.io/badge/X-@你的用户名-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" />
+    < img src="https://img.shields.io/badge/X-74751858155style=for-the-badge&logo=x&logoColor=white" alt="X" />
   </a >
   <a href="https://www.xiaohongshu.com/user/profile/你的ID">
     < img src="https://img.shields.io/badge/小红书-@你的用户名-FF2442?style=for-the-badge&logo=xiaohongshu&logoColor=white" alt="小红书" />
